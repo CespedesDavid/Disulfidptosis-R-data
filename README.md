@@ -150,12 +150,6 @@ Saved to working directory:
 
 ---
 
-## Citation
-
-> *[Authors]. Disulfidptosis as a prognostic biomarker in human cancers: a systematic review and meta-analysis with bioinformatic validation. [Journal], [Year]. DOI: [pending]*
-
----
-
 ## License
 
 Code released under the [MIT License](LICENSE).  
