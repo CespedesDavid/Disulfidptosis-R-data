@@ -26,7 +26,10 @@ disulfidptosis-hcc/
 │   └── Disulfidptosis_Metaanalysis.R
 │
 └── 5_QUIPS/
-    └── QUIPS_Disulfidptosis_plots.R
+│   └── QUIPS_Disulfidptosis_plots.R
+│
+└── 6_Material_Suplementario/
+    └── ...
 ```
 
 ---
