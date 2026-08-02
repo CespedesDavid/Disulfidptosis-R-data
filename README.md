@@ -29,16 +29,18 @@ disulfidptosis-hcc/
 │   └── QUIPS_Disulfidptosis_plots.R
 │
 └── 6_Material_Suplementario/
-    └── Estudios_Excluidos.docx
-    └── Estudios_Incluidos.docx
-    └── Figura_Suplementaria_1.pdf
-    └── Material_Suplementario_S1.docx
-    └── Material_Suplementario_S2.xlsx
-    └── Material_Suplementario_S3.xlsx
-    └── Material_Suplementario_S4.xlsx
-    └── Material_Suplementario_S5.docx
-    └── Material_Suplementario_S6.docx
+    └── Excluded_Studies.docx
+    └── Included_Studies.docx
+    └── Supplementary_Figure_S1.pdf
+    └── Supplementary_Material_S1.docx
+    └── Supplementary_Material_S2.docx
+    └── Supplementary_Material_S3.xlsx
+    └── Supplementary_Material_S4.xlsx
+    └── Supplementary_Material_S5.xlsx
+    └── Supplementary_Material_S6.docx
     └── Prospero.txt
+    └── Table_1.docx
+    └── Table_2.docx
 ```
 
 ---
